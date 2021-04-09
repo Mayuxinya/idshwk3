@@ -23,4 +23,3 @@ event zeek_done()
 		print fmt("%s is a proxy",x);
 	}
 }
-© 2021 GitHub, Inc.
